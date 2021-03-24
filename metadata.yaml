@@ -1,0 +1,33 @@
+_repo: Modern-cosmogonies_64537
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clerke, Agnes M. (Agnes Mary)
+    alias: Clerke, Agnes Mary
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '33220'
+    url: http://www.gutenberg.org/2009/agents/33220
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Mary_Clerke
+description: ''
+gutenberg_issued: '2021-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64537'
+  lccn: '06014465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cosmogony'
+- !lcc 'QB'
+- GITenberg
+tableOfContents: 'From Thales to Kant -- The nebular hypothesis -- Criticisms of the
+  nebular hypothesis -- The nebular hypothesis varied and improved -- Tidal friction
+  as an agent in cosmogony -- The fission of rotating globes -- World-building out
+  of meteorites -- Cosmogony in the twentieth century -- Protyle: what is it? -- Universal
+  forces -- The inevitable ether -- The forms of nebulæ -- The procession of suns
+  -- Our own system -- Remnants and survivals -- Life as the outcome.'
+title: Modern cosmogonies
+url: http://www.gutenberg.org/ebooks/64537
